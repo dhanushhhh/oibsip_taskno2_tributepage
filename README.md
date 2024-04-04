@@ -12,7 +12,7 @@ The tribute page includes information about M. S. Dhoni's achievements, a captiv
 
 ## Preview
 
-![Tribute Page Preview](darmy.jpg)
+![Tribute Page Preview](task2_tribute_page/images/darmy.jpg)
 
 ## Technologies Used
 
