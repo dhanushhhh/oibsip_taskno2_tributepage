@@ -34,7 +34,7 @@ To view this project, simply open the `index.html` file in your preferred web br
 
 - Tribute page content and design by Dhanush S
 - Images sourced from the internet
-- Video embedded from [YouTube](https://www.youtube.com/watch?v=b4OH3vBANa4)
+- Video embedded from [YouTube](https://www.youtube.com/embed/b4OH3vBANa4?si=0_Cwl43Q4YgeZtvu)
 
 
 ## Acknowledgements
